@@ -18,7 +18,7 @@
   <img align="center" alt="Bianca-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Bianca-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Bianca-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"> 
-  <img align="right" alt="Bianca-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/1050232115578552501/1050232182632890428">
+  <img align="right" alt="Bianca-pic" height="150" style="border-radius:50px;" src="[https://discord.com/channels/@me/1050232115578552501/1050232182632890428](https://discord.com/channels/@me/1050232115578552501/1050232182632890428)">
 </div>
 
 ## 
