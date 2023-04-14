@@ -1,7 +1,7 @@
-## Olá! Eu sou a Bianca
+## Olá! Eu sou a Bianca B. Teixeira
 
-- 🔭 Trabalho com back-end
-- 🌱 HTML/CSS, React e JavaScript
+- 🔭 Trabalhando com Python, Java, Jupyter Notebook, JPA com Hibernate, HTML/CSS, JavaScript 
+- 🌱 Banco de Dados, React e entre outros
 
 <div align="center">
   <a href="https://github.com/biancabt1102">
