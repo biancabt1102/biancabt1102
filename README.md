@@ -33,7 +33,6 @@
   <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
           
-  <img align="right" alt="Bianca-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1050232115578552501/1050244891613089832/download20221203225451.png?width=586&height=586">
   
 </div>
 
@@ -44,6 +43,5 @@
   <a href = "mailto:biancabt1102@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bianca-barrancos-teixeira-54692b232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/biancabt1102/biancabt1102/blob/output/github-contribution-grid-snake.svg)
   
 </div>
