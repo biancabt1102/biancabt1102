@@ -1,7 +1,7 @@
-## Olá! Eu sou a Bianca B. Teixeira
+## Hi! I'm Bianca B. Teixeira
 
-- 🌎 Sou de São Paulo/SP, Brasil
-- 💻 Desenvolvedora Full-Stack
+- 🌎 I'm from São Paulo/SP, Brazil
+- 💻 Full-Stack Development
 
 <hr>
 
@@ -44,7 +44,6 @@
   <img align="center" alt="VS Code" height="40" width="40" src="https://skillicons.dev/icons?i=vscode" />
   <img align="center" alt="Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Eclipse" height="40" width="40" src="https://skillicons.dev/icons?i=eclipse&theme=light" />
-  <img align="center" alt="Postman" height="40" width="40" src="https://skillicons.dev/icons?i=postman" />
   <img align="center" alt="Vercel" height="40" width="40" src="https://skillicons.dev/icons?i=vercel" />
   <img align="center" alt="Github" height="40" width="40" src="https://skillicons.dev/icons?i=github" />
   <img align="center" alt="Github" height="40" width="40" src="https://i.postimg.cc/MHch4m7T/insomnia.png" />
