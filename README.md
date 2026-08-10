@@ -5,7 +5,7 @@
 - 🌎 I'm from São Paulo/SP, Brazil
 - 💻 I'm interested in **Programming/Dev**
 - 📫 How to reach me: 
-<div align="center">
+<div>
   <a href="mailto:biancabt1102@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
@@ -14,38 +14,30 @@
   </a> 
 </div>
 
-
 ### 💻 Programming languages:
+<div>
+  <h4>Back-end</h4>
+  <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" />
+  <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+</div>
 
-- ☕ Java: **Spring, JPA, JDBC and Maven.**
-- 🐍 Python: **Pandas, Seaborn, SkLearn and Matplotlib.**
-- **JavaScript and TypeScript.**
-- **Csharp or C# and .NET;**
+<div>
+  <h4>SQL</h4>
+  <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+  <img width="80" height="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+</div>
 
-### Front-End:
-
-- **HTML5 and CSS3**;
-- ⚛ **React and React Native**;
-- **TailwindCSS**
-- **SASS**
-- **Node.js**
-- **Vue.js**
-
-### Databases:
-
-- **MySQL**
-- **PostgreSQL**
-- **OracleSQL**
-
-### Devops:
-
-- 🐧 **Linux**
-- 🐳 **Docker**
-- **Azure**
+<div>
+  <h4>Front-end</h4>
+  <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+</div>
 
 ### 📊 My stats:
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancabt1102&theme=dracula&hide_title=true&show_icons=true&include_all_commits=true&layout=compact" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancabt1102&layout=compact&theme=dracula&hide_title=true"/>
+<div>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=biancabt1102&rank_icon=percentile&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=dark&layout=compact" />
 </div>
